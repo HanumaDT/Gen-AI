@@ -3,3 +3,4 @@ The audio to text file contains the code for converting an human speech audio to
 Chatbot local database file helps the gemini's Gen AI api to take the local database to provide the meaningful insights.
 PPT_text helps to get the text in the ppt as per the slide
 OpenCoder is a open source llm which is used to produce the code in various programming languages. Successfully implemented the code using tesla T4.
+Dall-E is a image generating algorithm, which uses Open AI API to generate the image based on the user prompt.
